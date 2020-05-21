@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.7f08a19a.chunk.css",
-    "main.js": "/robofriends/static/js/main.2efcbc97.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.2efcbc97.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.9955acc8.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.9955acc8.js.map",
-    "static/css/2.3b6f1bda.chunk.css": "/robofriends/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.5e9ad4ca.chunk.js": "/robofriends/static/js/2.5e9ad4ca.chunk.js",
-    "static/js/2.5e9ad4ca.chunk.js.map": "/robofriends/static/js/2.5e9ad4ca.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "precache-manifest.25dd98392470ae2a818a2c2e21f7b321.js": "/robofriends/precache-manifest.25dd98392470ae2a818a2c2e21f7b321.js",
-    "service-worker.js": "/robofriends/service-worker.js",
-    "static/css/2.3b6f1bda.chunk.css.map": "/robofriends/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.7f08a19a.chunk.css.map": "/robofriends/static/css/main.7f08a19a.chunk.css.map",
-    "static/js/2.5e9ad4ca.chunk.js.LICENSE.txt": "/robofriends/static/js/2.5e9ad4ca.chunk.js.LICENSE.txt"
+    "main.css": "/backgroundchange/static/css/main.e0953ee8.chunk.css",
+    "main.js": "/backgroundchange/static/js/main.9f8b1f05.chunk.js",
+    "main.js.map": "/backgroundchange/static/js/main.9f8b1f05.chunk.js.map",
+    "runtime-main.js": "/backgroundchange/static/js/runtime-main.209a40e1.js",
+    "runtime-main.js.map": "/backgroundchange/static/js/runtime-main.209a40e1.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/backgroundchange/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.0839f802.chunk.js": "/backgroundchange/static/js/2.0839f802.chunk.js",
+    "static/js/2.0839f802.chunk.js.map": "/backgroundchange/static/js/2.0839f802.chunk.js.map",
+    "index.html": "/backgroundchange/index.html",
+    "precache-manifest.102fa403d4fd3cc2e603a377f037351f.js": "/backgroundchange/precache-manifest.102fa403d4fd3cc2e603a377f037351f.js",
+    "service-worker.js": "/backgroundchange/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/backgroundchange/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.e0953ee8.chunk.css.map": "/backgroundchange/static/css/main.e0953ee8.chunk.css.map",
+    "static/js/2.0839f802.chunk.js.LICENSE.txt": "/backgroundchange/static/js/2.0839f802.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9955acc8.js",
+    "static/js/runtime-main.209a40e1.js",
     "static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.5e9ad4ca.chunk.js",
-    "static/css/main.7f08a19a.chunk.css",
-    "static/js/main.2efcbc97.chunk.js"
+    "static/js/2.0839f802.chunk.js",
+    "static/css/main.e0953ee8.chunk.css",
+    "static/js/main.9f8b1f05.chunk.js"
   ]
 }
